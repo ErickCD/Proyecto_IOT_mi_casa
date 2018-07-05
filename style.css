@@ -1,0 +1,23 @@
+#ex1Slider .slider-selection {
+    background: #BA0000;
+}
+
+#ex2Slider .slider-selection {
+    background: #00BA00;
+}
+
+#ex3Slider .slider-selection {
+    background: #0000BA;
+}
+
+#ex1Slider .slider-handle {
+    background: #880000;
+}
+
+#ex2Slider .slider-handle {
+    background: #008800;
+}
+
+#ex3Slider .slider-handle {
+    background: #000088;
+}
